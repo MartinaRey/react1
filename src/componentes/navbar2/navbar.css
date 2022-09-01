@@ -1,0 +1,25 @@
+.proyecto {
+  height: 100vh;
+  position: relative;
+  width: 100vw;
+  overflow: hidden;
+}
+
+.martu {
+  background-color: antiquewhite;
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+.martu ul{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.martu li {
+  list-style-type: none;
+  margin: 20px;
+}

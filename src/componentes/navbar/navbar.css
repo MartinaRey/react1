@@ -1,0 +1,17 @@
+
+.navbar {
+  background-color: antiquewhite;
+  display: flex;
+  justify-content: center;
+
+}
+.navbar ul {
+  display: flex;
+  align-items: center;
+  
+}
+
+.navbar li {
+  margin: 20px;
+  list-style-type: none;
+}

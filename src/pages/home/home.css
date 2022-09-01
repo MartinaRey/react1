@@ -1,0 +1,13 @@
+.home{
+  color: aliceblue;
+  display: flex;
+  flex-direction:row;
+  justify-content: center;
+}
+
+.letras{
+  background-color: rgba(116, 11, 11, 0.555);
+  max-width: 70%;
+  padding: 20px;
+  border-radius: 10px
+}
